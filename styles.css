@@ -15,3 +15,6 @@ p {
   text-align: justify;
   line-height: 1.2;
 }
+dl{
+  padding: 30px;
+}
