@@ -12,4 +12,6 @@ h2 {
 p {
   color: black;
   padding: 30px;
+  text-align: justify;
+  line-height: 1.2;
 }
