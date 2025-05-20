@@ -19,6 +19,11 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
 
 /* Create two columns/boxes that floats next to each other */
 nav {
